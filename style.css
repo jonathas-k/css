@@ -1,0 +1,122 @@
+#myHeader {
+    background-color: #0055D4;
+    color: #000000;
+    padding: 40px;
+    text-align: center;
+  } 
+body {
+    background-color: #E4E4E4;
+    align-self: center;
+    background:url("./label.png");
+    background-repeat: no-repeat;
+    background-size: smal;
+    padding-bottom: 2500px;
+    align
+   
+}
+.progress{
+  margin-top: 3px;
+}
+.label {
+  border: 2px solid rgb(0, 225, 255);
+  border-radius: 60%;
+  height: 375px;
+  margin-top: 120px;
+  margin-left: 35px;
+  width: 389px;
+}
+.icon {
+  height: 100px;
+  margin-top: 215px;
+  margin-left: 15px;
+  width: 100px;
+}
+.numero{
+  height: 375px   black;
+  margin-top: -290px;
+  margin-left: 570px;
+  font-size: 75px;
+}
+.email{
+  height: 375px   black;
+  margin-top: 5px;
+  margin-left: 570px;
+  font-size: 60px;
+}
+.progress-bar{
+  height: 50px;
+  padding: px;
+  background-color: #ccc;
+  width: 400px;
+  margin-top: 1150px;
+  margin-left: 240px;
+  display: flex;
+}
+
+.progress-bar::before{
+  content: "";
+  width: 1%;
+  background-color: rgb(255, 0, 0);
+}
+
+.progress-bar2{
+  height: 50px;
+  padding: px;
+  background-color: #ccc;
+  width: 400px;
+  margin-top: 40px;
+  margin-left: 240px;
+  display: flex;
+}
+
+.progress-bar2::before{
+  content: "";
+  width: 70%;
+  background-color: rgb(0, 255, 64);
+}
+.progress-bar3{
+  height: 50px;
+  padding: px;
+  background-color: #ccc;
+  width: 400px;
+  margin-top: 40px;
+  margin-left: 240px;
+  display: flex;
+}
+
+.progress-bar3::before{
+  content: "";
+  width: 50%;
+  background-color: rgb(0, 255, 64);
+}
+.progress-bar4{
+  height: 50px;
+  padding: px;
+  background-color: #ccc;
+  width: 400px;
+  margin-top: -230px;
+  margin-left: 890px;
+  display: flex;
+}
+
+.progress-bar4::before{
+  content: "";
+  width: 45%;
+  background-color: rgb(0, 255, 64);
+}
+.progress-bar5{
+  height: 50px;
+  padding: px;
+  background-color: #ccc;
+  width: 400px;
+  margin-top: 40px;
+  margin-left: 890px;
+  display: flex;
+}
+
+.progress-bar5::before{
+  content: "";
+  width: 57%;
+  background-color: rgb(0, 255, 64);
+}
+
